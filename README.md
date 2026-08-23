@@ -3,17 +3,19 @@
 An interactive Power BI dashboard for exploring and analyzing historical weather data collected from airports/weather stations across India between 2014 and 2021.
 
 The project focuses on understanding how weather conditions vary across different locations, dates, months, years, and times of the day. The dashboard provides interactive visual analysis of multiple meteorological parameters and was also used as part of a research study.
-
 ## Dashboard Preview
 
-<img width="2648" height="1352" alt="image" src="https://github.com/user-attachments/assets/fc823df9-afea-4295-bec7-5a42c6ef2fce" />
+<img width="2648" height="1352" alt="Weather Data Dashboard" src="https://github.com/user-attachments/assets/fc823df9-afea-4295-bec7-5a42c6ef2fce" />
 
-<img width="2653" height="1357" alt="{080FDF9D-B7DD-48A2-9137-5EC4E3943023}" src="https://github.com/user-attachments/assets/3a357a87-5520-4aca-ae1a-fcb2797f4503" />
+<br><br>
 
-<img width="2659" height="1360" alt="image" src="https://github.com/user-attachments/assets/4d3b7b9e-fe4e-431e-8edf-a16ac45ab29a" />
+<img width="2646" height="1354" alt="Weather Analysis Dashboard" src="https://github.com/user-attachments/assets/3aec0af9-2fb7-4244-a99d-683438c061fe" />
+
+<br><br>
+
+<img width="2659" height="1360" alt="Meteorological Analysis Dashboard" src="https://github.com/user-attachments/assets/4d3b7b9e-fe4e-431e-8edf-a16ac45ab29a" />
 
 ## What the Dashboard Does
-
 The Power BI report allows users to interactively explore weather data using filters and visualizations.
 
 The main dashboard includes filters for:
@@ -48,7 +50,7 @@ These pages allow the same dataset to be explored from different weather perspec
 
 - **Data period:** 2014–2021
 - **Geographical coverage:** Airports/weather stations across India
-- **Data source:** Indian Meteorological Department (IMD)
+- **Data source:** Indian Meteorological Department
 - **Data type:** Historical meteorological observations
 
 ## Key Objectives
@@ -59,33 +61,12 @@ These pages allow the same dataset to be explored from different weather perspec
 - Explore relationships between different weather parameters
 - Build an interactive dashboard for easier interpretation of large-scale weather data
 
-## Research
-
-The analysis was also used as part of a research publication based on the study of meteorological data.
-
-**Research Paper:** [Add research paper link here]
-
 ## Technologies Used
 
 - **Power BI** — interactive dashboards, data modeling, visualizations, and filters
 - **Python** — data processing and analysis
 - **SQL** — data handling/querying where applicable
 - **Machine Learning** — Ridge Regression and Random Forest analysis as part of the broader project/research work
-
-## Repository Structure
-
-```text
-Weather-Data-Analysis/
-│
-├── README.md
-├── WeatherData.pbix
-├── images/
-│   └── weather-dashboard.png
-└── data/
-    └── README.md
-```
-
-> The raw dataset is not included in this repository if it is subject to source or usage restrictions.
 
 ## How to Explore the Dashboard
 
