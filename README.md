@@ -6,7 +6,11 @@ The project focuses on understanding how weather conditions vary across differen
 
 ## Dashboard Preview
 
-![Weather Data Dashboard](images/weather-dashboard.png)
+<img width="2648" height="1352" alt="image" src="https://github.com/user-attachments/assets/fc823df9-afea-4295-bec7-5a42c6ef2fce" />
+
+<img width="2653" height="1357" alt="{080FDF9D-B7DD-48A2-9137-5EC4E3943023}" src="https://github.com/user-attachments/assets/3a357a87-5520-4aca-ae1a-fcb2797f4503" />
+
+<img width="2659" height="1360" alt="image" src="https://github.com/user-attachments/assets/4d3b7b9e-fe4e-431e-8edf-a16ac45ab29a" />
 
 ## What the Dashboard Does
 
