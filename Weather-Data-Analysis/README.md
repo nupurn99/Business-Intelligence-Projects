@@ -2,8 +2,6 @@
 
 The project focuses on understanding how weather conditions vary across different locations, dates, months, years, and times of the day. The dashboard provides interactive visual analysis of multiple meteorological parameters and was also used as part of a research study.
 
-#### Dashboard link : https://app.powerbi.com/groups/me/reports/95bb9d40-7d02-4e44-9bf6-7ac1d519d3a5/ReportSectione6b0b9567d31c35d10f4?experience=power-bi
-
 ## Dashboard Preview
 
 <img width="2648" height="1352" alt="Weather Data Dashboard" src="https://github.com/user-attachments/assets/fc823df9-afea-4295-bec7-5a42c6ef2fce" />
