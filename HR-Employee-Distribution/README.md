@@ -2,14 +2,7 @@
 
 > An interactive Power BI dashboard for analyzing workforce demographics, employment characteristics, workplace distribution, and workforce trends.
 
-## Project Overview
-
-This dashboard provides insights into:
-
-* Workforce distribution by age and gender
-* Headquarters vs. remote employees
-* Average employee tenure
-* Year-over-year workforce trends
+#### Dashboard link : https://app.powerbi.com/groups/me/reports/eab400bf-cd17-459d-ad6a-8e82f316fdbb/ReportSection?experience=power-bi
 
 ## Dashboard Preview
 
