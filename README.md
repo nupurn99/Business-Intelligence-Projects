@@ -14,6 +14,14 @@ The project focuses on analyzing weather conditions across different locations, 
 
 <br><br>
 
+### Salespoint-E-Commerce
+
+An interactive Power BI dashboard for analyzing sales performance, revenue trends, product categories, and customer purchasing patterns.
+
+<img width="2633" height="1345" alt="image" src="https://github.com/user-attachments/assets/b3e87486-31fc-4760-a620-89d68beee078" />
+
+<br><br>
+
 ### HR Employee Distribution Dashboard
 
 An interactive **Power BI dashboard** for analyzing employee demographics, workplace distribution, employment tenure, and workforce trends.
