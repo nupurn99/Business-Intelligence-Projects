@@ -2,9 +2,9 @@
 
 A collection of **Business Intelligence and data analytics projects** developed using Power BI. These projects focus on transforming data into interactive dashboards and generating meaningful insights through data visualization and analysis.
 
-**## Projects**
+## Projects
 
-**### Weather Data Analysis Dashboard**
+### Weather Data Analysis Dashboard
 
 An interactive **Power BI dashboard** for exploring and analyzing historical weather data collected from airports and weather stations across India between 2014 and 2021.
 
@@ -14,7 +14,7 @@ The project focuses on analyzing weather conditions across different locations, 
 
 <br><br>
 
-**### HR Employee Distribution Dashboard**
+### HR Employee Distribution Dashboard
 
 An interactive **Power BI dashboard** for analyzing employee demographics, workplace distribution, employment tenure, and workforce trends.
 
@@ -24,7 +24,7 @@ The dashboard provides insights into employee distribution by age and gender, he
 
 <br><br>
 
-**## Technologies Used**
+## Technologies Used
 
 - **Power BI** — Dashboard development and visualization
 - **Power Query** — Data cleaning and transformation
