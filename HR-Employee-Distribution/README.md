@@ -1,122 +1,109 @@
-HR Employee Distribution Dashboard
+# 📊 HR Employee Distribution Dashboard
 
-An interactive Power BI dashboard for analyzing workforce demographics, employment characteristics, workplace location, and year-over-year employee trends.
+> An interactive Power BI dashboard for analyzing workforce demographics, employment characteristics, workplace distribution, and employee trends.
 
-Dashboard Preview
+---
 
+## 📌 Project Overview
 
+This project uses **Microsoft Power BI** to transform employee data into an interactive workforce analytics dashboard.
 
-Overview
+The dashboard provides a consolidated view of employee demographics, employment patterns, workplace location, and changes in workforce composition over time.
 
-The dashboard provides a visual overview of employee distribution across key demographic and organizational dimensions.
+### 🎯 Key Areas of Analysis
 
-It covers:
+| Area | Analysis |
+|---|---|
+| 👥 Workforce Demographics | Employee distribution across age groups and gender |
+| 🏢 Workplace Distribution | Headquarters vs. remote employees |
+| ⏳ Employment Tenure | Average employment length |
+| 📈 Workforce Trends | Year-over-year net change |
+| 📊 Business Intelligence | Interactive data visualization and reporting |
 
-Employee distribution by age group
+---
 
-Employee count by gender
+## 🖥️ Dashboard Preview
 
-Headquarters vs. remote workforce distribution
+<p align="center">
+  <img src="images/hr-employee-distribution.png" width="95%">
+</p>
 
-Average employment length
+---
 
-Year-over-year net change percentage
+## 📊 Dashboard Insights
 
-The report transforms workforce data into an interactive visual summary for HR and workforce analysis.
+### 👤 Employee Distribution by Age
 
-Key Visualizations
+The dashboard analyzes employee distribution across different age groups:
 
-Employee Distribution by Age Group
+- 18–24
+- 25–34
+- 35–44
+- 45–55
+- 55+
+
+This provides an overview of workforce composition across different career stages.
+
+### ⚧ Employee Distribution by Gender
 
 The dashboard compares employee counts across:
 
-18–24
+- Female
+- Male
+- Non-Conforming
 
-25–34
+This provides a high-level view of workforce composition.
 
-35–44
+### 🏢 Headquarters vs. Remote
 
-45–55
+A donut chart visualizes the distribution of employees working from:
 
-55+
+- **Headquarters**
+- **Remote locations**
 
-This helps identify the composition of the workforce across different career stages.
+This helps provide insight into the organization's workplace structure.
 
-Employee Distribution by Gender
+### ⏱️ Average Employment Length
 
-The dashboard compares employee counts across:
+A KPI card presents the **average employment length**, providing a quick indicator of overall employee tenure.
 
-Female
+### 📈 Workforce Trend Analysis
 
-Male
+The line chart tracks **net change percentage by year**, allowing workforce trends to be analyzed over time.
 
-Non-Conforming
+The visualization highlights periods of workforce growth and changes in employee distribution.
 
-This provides a high-level view of workforce composition by gender.
+---
 
-Headquarters vs. Remote
+## ⚙️ Dashboard Features
 
-A donut chart compares employees working from:
+- Interactive Power BI visualizations
+- Workforce demographic analysis
+- Age-group distribution
+- Gender distribution
+- Headquarters vs. remote analysis
+- Employee tenure analysis
+- Year-over-year workforce trends
+- KPI-based reporting
+- Data-driven visual storytelling
 
-Headquarters
+---
 
-Remote locations
+## 🛠️ Technologies Used
 
-This provides insight into workplace distribution and remote-work adoption.
+| Technology | Purpose |
+|---|---|
+| **Power BI** | Dashboard development and visualization |
+| **Power Query** | Data cleaning and transformation |
+| **DAX** | Calculated measures and analytical metrics |
 
-Average Employment Length
+---
 
-The KPI card displays the average employment length, providing a quick indicator of overall workforce tenure.
+## 📂 Repository Structure
 
-Net Change by Year
-
-The time-series visualization tracks net change percentage over the years, making it easier to identify periods of workforce growth, decline, and changing employee trends.
-
-Technologies Used
-
-Power BI — dashboard development, data modeling, visualizations, and reporting
-
-DAX — calculated measures and analytical metrics
-
-Power Query — data preparation and transformation
-
-Dashboard Features
-
-Interactive Power BI visuals
-
-Workforce demographic analysis
-
-Employment tenure analysis
-
-Remote vs. headquarters analysis
-
-Year-over-year trend analysis
-
-KPI-based summary metrics
-
-Management-oriented dashboard layout
-
-Repository Structure
-
+```text
 HR-Employee-Distribution/
 │
 ├── README.md
 ├── HR-Employee-Distribution.pbix
-└── images/
-    └── hr-employee-distribution.png
-
-How to Explore the Dashboard
-
-Download the .pbix file.
-
-Open it using Power BI Desktop.
-
-Interact with the available visuals and filters.
-
-Explore employee demographics, workplace distribution, employment length, and yearly trends.
-
-Project Purpose
-
-This project demonstrates the application of business intelligence and data visualization techniques to transform employee data into clear workforce insights.
-
-It showcases practical experience with Power BI, data modeling, analytical measures, and dashboard design.
+│
