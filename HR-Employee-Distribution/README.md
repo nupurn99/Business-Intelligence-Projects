@@ -31,6 +31,4 @@ This dashboard provides insights into:
 HR-Employee-Distribution/
 ├── README.md
 ├── HR-Employee-Distribution.pbix
-└── images/
-    └── hr-employee-distribution.png
 ```
