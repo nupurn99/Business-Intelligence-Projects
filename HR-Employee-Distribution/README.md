@@ -6,7 +6,7 @@
 
 <img width="2409" height="1356" alt="image" src="https://github.com/user-attachments/assets/27f83aeb-75b0-459c-a98e-7206fae1f569" />
 
-<br><br>
+<br>
 
 ## Technologies Used
 
